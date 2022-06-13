@@ -1,6 +1,7 @@
 
 
-# Process as of 6/8/2022
+# Summer 2022 Research Project
+## Process as of 6/8/2022
 Most importantly get the right format as discussed first then create stuff with snakemake and etc.
 - [x] Correctly open/reading in the npz files
 - [x] Opening and analyzing the vcf files 
